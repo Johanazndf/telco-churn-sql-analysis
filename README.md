@@ -1,5 +1,4 @@
 # telco-churn-sql-analysis
-# Telco Customer Churn SQL Analysis
 
 ## Project Overview
 This project analyzes customer churn behavior using SQL on the Telco Customer Churn dataset. The objective is to understand churn patterns, revenue distribution, and customer behavior across different services and contract types.
